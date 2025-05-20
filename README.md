@@ -45,7 +45,8 @@ A suggested flow for self-studying the core theoretical subjects, structured to 
 
 ## 📘 Flowchart (Concept Dependency Map)
 
-![NewLiterature-8 6](https://github.com/user-attachments/assets/45151116-d217-40d9-87a2-85af3fd2160c)
+![NewLiterature-8 7](https://github.com/user-attachments/assets/4ceb31ed-b22a-46b4-9093-964ed37bf2bf)
+
 
 ---
 
