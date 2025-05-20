@@ -42,6 +42,38 @@ A suggested flow for self-studying the core theoretical subjects, structured to 
 
 ## Flowchart
 
+## 📘 Flowchart (Concept Dependency Map)
+
+```text
+START
+  |
+  v
+[Linear Algebra]       [Real Analysis]
+       |                      |
+       v                      v
+ [Probability Theory I]     [Probability Theory II]
+               |                      |
+               v                      v
+       [Probability Theory III] <-----
+               |
+               v
+     [Statistical Methods I–IV]
+               |
+               v
+     [Stochastic Processes]
+               |
+               v
+     [Parametric Inference]
+               |
+               v
+[Linear Statistical Models]   [Design of Experiments]
+               \                 /
+                v               v
+     [Nonparametric & Sequential Methods]
+                |
+                v
+     [Advanced Topics / Reading]
+
 ## Recommended Order (List Format)
 
 1. **Linear Algebra** – Essential for everything from regression to PCA.
