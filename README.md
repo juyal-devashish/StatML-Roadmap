@@ -44,7 +44,6 @@ A suggested flow for self-studying the core theoretical subjects, structured to 
 
 ## 📘 Flowchart (Concept Dependency Map)
 
-```text
 START
   |
   v
