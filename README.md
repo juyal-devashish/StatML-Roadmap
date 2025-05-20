@@ -44,6 +44,7 @@ A suggested flow for self-studying the core theoretical subjects, structured to 
 
 ## 📘 Flowchart (Concept Dependency Map)
 
+```
 START
   |
   v
@@ -72,7 +73,7 @@ START
                 |
                 v
      [Advanced Topics / Reading]
-
+```
 ## Recommended Order (List Format)
 
 1. **Linear Algebra** – Essential for everything from regression to PCA.
