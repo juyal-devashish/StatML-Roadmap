@@ -38,42 +38,17 @@ This document evaluates the ISI Kolkata B.Stat. (Hons.) curriculum for a Master'
 
 ---
 
+
 A suggested flow for self-studying the core theoretical subjects, structured to build concepts progressively.
 
 ## Flowchart
 
 ## 📘 Flowchart (Concept Dependency Map)
 
-```
-START
-  |
-  v
-[Linear Algebra]       [Real Analysis]
-       |                      |
-       v                      v
- [Probability Theory I]     [Probability Theory II]
-               |                      |
-               v                      v
-       [Probability Theory III] <-----
-               |
-               v
-     [Statistical Methods I–IV]
-               |
-               v
-     [Stochastic Processes]
-               |
-               v
-     [Parametric Inference]
-               |
-               v
-[Linear Statistical Models]   [Design of Experiments]
-               \                 /
-                v               v
-     [Nonparametric & Sequential Methods]
-                |
-                v
-     [Advanced Topics / Reading]
-```
+![NewLiterature-8 6](https://github.com/user-attachments/assets/45151116-d217-40d9-87a2-85af3fd2160c)
+
+---
+
 ## Recommended Order (List Format)
 
 1. **Linear Algebra** – Essential for everything from regression to PCA.
