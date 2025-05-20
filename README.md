@@ -38,4 +38,25 @@ This document evaluates the ISI Kolkata B.Stat. (Hons.) curriculum for a Master'
 
 ---
 
+A suggested flow for self-studying the core theoretical subjects, structured to build concepts progressively.
+
+## Flowchart
+
+## Recommended Order (List Format)
+
+1. **Linear Algebra** – Essential for everything from regression to PCA.
+2. **Real Analysis** – Provides the rigorous math backbone for probability and inference.
+3. **Probability Theory I → II → III** – Progressively builds measure-theoretic understanding.
+4. **Statistical Methods I–IV** – Learn estimation, simulation, regression, and resampling.
+5. **Stochastic Processes** – Foundation for modeling uncertainty, Markov chains, etc.
+6. **Linear Statistical Models** – Theory behind regression, ANOVA, and least squares.
+7. **Parametric Inference** – Core statistical inference tools: MLE, hypothesis testing.
+8. **Design of Experiments** – Understand experimental planning and statistical efficiency.
+9. **Nonparametric & Sequential Methods** – Distribution-free inference, adaptive testing.
+10. **Advanced Reading** – Research papers, modern ML/stat textbooks, etc.
+
+> Tip: Pair theoretical reading with implementation (e.g., simulations in Python/R).
+
+
+
 > **Note**: This guide is based on the official 2016 ISI B.Stat. (Hons.) syllabus and curated for theoretical depth and relevance to sequential learning and statistical ML.
