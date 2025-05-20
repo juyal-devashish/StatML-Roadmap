@@ -18,15 +18,6 @@ This document evaluates the ISI Kolkata B.Stat. (Hons.) curriculum for a Master'
 | **Real Analysis (I–III)**                      | Moderately Relevant   | *W. Rudin* – _Principles of Mathematical Analysis_                                       |
 | **Vectors and Matrices (I–II)**                | Moderately Relevant   | *S. Axler* – _Linear Algebra Done Right_                                                 |
 | **Numerical Analysis**                         | Moderately Relevant   | *S.D. Conte, C. de Boor* – _Elementary Numerical Analysis_                               |
-| **Sample Surveys**                             | Not Relevant          | –                                                                                        |
-| **Economic & Official Statistics / Demography**| Not Relevant          | –                                                                                        |
-| **Statistical Quality Control & OR**           | Not Relevant          | –                                                                                        |
-| **Discrete Mathematics**                       | Not Relevant          | –                                                                                        |
-| **Elements of Algebraic Structures**           | Not Relevant          | –                                                                                        |
-| **Differential Equations**                     | Not Relevant          | –                                                                                        |
-| **Intro to Programming / Data Structures**     | Not Relevant          | –                                                                                        |
-| **Design and Analysis of Algorithms**          | Not Relevant          | –                                                                                        |
-| **Elective Courses in Sciences (Physics, Bio)**| Not Relevant          | –                                                                                        |
 
 ---
 
